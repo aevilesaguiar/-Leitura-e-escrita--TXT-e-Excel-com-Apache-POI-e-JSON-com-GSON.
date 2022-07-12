@@ -30,6 +30,14 @@
  - Editando Célula existente no XLS
 
  - Escrevendo JSON em arquivo TXT com GSON
+   - O formato JSON (JavaScript Object Notation) é um formato aberto usado como alternativa ao XML para a transferência de
+     dados estruturados entre um servidor de Web e uma aplicação Web. Sua lógica de organização tem semelhanças com o XML, 
+     mas possui notação diferente. O motivo principal para usar JSON é que em aplicações web com AJAX, JSON é muito mais 
+     rápido e fácil de usar do que XML.
+     Json são dados estruturados de um objeto, e ficam em formato texto. De acordo com o Objeto e seus atributos ele pode 
+     ser convetidos em textos, muito comum em integrações, apis que sempre retornam JSon é a forma de ligar dados em diferenes 
+     sistemas.
+
 
  - Lendo arquivo JSON e montando Lista em Java
 

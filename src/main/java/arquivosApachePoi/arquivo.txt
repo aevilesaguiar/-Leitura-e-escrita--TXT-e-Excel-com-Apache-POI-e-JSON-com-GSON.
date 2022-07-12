@@ -1,6 +1,6 @@
-Francisco;pessoa1@gmail.com;36;
-Flávio;pessoa2@gmail.com;46;
-Fernanda;pessoa3@gmail.com;16;
+Francisco; pessoa1@gmail.com ;36 ; 
+Flávio; pessoa2@gmail.com ;46 ; 
+Fernanda; pessoa3@gmail.com ;16 ; 
 Texto da minha linha 0
 Texto da minha linha 1
 Texto da minha linha 2
