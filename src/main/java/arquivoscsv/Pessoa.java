@@ -1,16 +1,16 @@
-package arquivos;
+package arquivoscsv;
 
 public class Pessoa {
 
     private String nome;
     private String email;
-    private int idade;
+    private String idade;
 
     public Pessoa() {
 
     }
 
-    public Pessoa(String nome, String email, int idade) {
+    public Pessoa(String nome, String email, String idade) {
         this.nome = nome;
         this.email = email;
         this.idade = idade;
@@ -32,14 +32,13 @@ public class Pessoa {
         this.email = email;
     }
 
-    public int getIdade() {
+    public String getIdade() {
         return idade;
     }
 
-    public void setIdade(int idade) {
+    public void setIdade(String idade) {
         this.idade = idade;
     }
-
 
     @Override
     public String toString() {
