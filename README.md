@@ -37,6 +37,7 @@
      Json são dados estruturados de um objeto, e ficam em formato texto. De acordo com o Objeto e seus atributos ele pode 
      ser convetidos em textos, muito comum em integrações, apis que sempre retornam JSon é a forma de ligar dados em diferenes 
      sistemas.
+   - Gson é uma biblioteca Java de código aberto para serializar e desserializar objetos Java para JSON. 
 
 
  - Lendo arquivo JSON e montando Lista em Java
